@@ -13,7 +13,7 @@ Estou sempre aberto a novos desafios, projetos e networking. Sinta-se à vontade
 ### Stack Técnica & Habilidades
 
 #### Back-End & APIs
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs)](https://skillicons.dev)
 
 #### Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,firebase)](https://skillicons.dev)
