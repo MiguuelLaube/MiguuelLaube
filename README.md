@@ -1,8 +1,5 @@
 # Olá, me chamo Miguel Laube 👋
 
-<!-- SUBSTITUA O USERNAME DO GITHUB ABAIXO (onde está 'SEU_USUARIO_GITHUB') -->
-<!-- https://github.com/SEU_USUARIO_GITHUB -->
-
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no SENAI São Paulo. Busco oportunidades de **Estágio** ou atuação como **Desenvolvedor Júnior** onde possa aplicar meus conhecimentos em desenvolvimento de APIs, gerenciamento de dados e infraestrutura em nuvem para entregar soluções eficientes e de alto desempenho.
 
 ---
