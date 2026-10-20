@@ -19,7 +19,7 @@ Estou sempre aberto a novos desafios, projetos e networking. Sinta-se à vontade
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,firebase)](https://skillicons.dev)
 
 #### Cloud & Infraestrutura
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux)](https://skillicons.dev)
 
 #### Front-End
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
